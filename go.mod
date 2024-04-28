@@ -1,6 +1,6 @@
 module github.com/barrett370/go-kit-wrappers
 
-go 1.22.0
+go 1.18
 
 require github.com/go-kit/kit v0.13.0
 
